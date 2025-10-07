@@ -1,0 +1,13 @@
+[
+    {
+        "response_id": "96a95186-5a7b-472c-99f9-d0559b4c8c31",
+        "user message": "i earn 1 k on monday and it incresse 1 k per day so can you provide me a chart for the 7 day",
+        "Translated user message": "",
+        "AI Message": "I have created a bar chart representing your daily earnings for the 7-day period.\n\nHere is the chart:\n\n![Daily Earnings Chart](D:/finsocial/Multi%20model%20adding%20for%20the%20trading/agents/charts/dark_bar_chart_1.png)\n\nThis chart visually represents your earnings progression, starting from 1k on Monday and increasing by 1k each day.\n\nWould you like to see this data in a different a different chart type, such as a line chart or a pie chart?",
+        "time": "2025-09-05T14:52:42.927571",
+        "task_id": "66bc86ef-3ce5-4c77-8596-a2553a4c3e86",
+        "Main_reasoning": "",
+        "Main_reasoning_translated": "",
+        "Translated AI Message": ""
+    }
+]

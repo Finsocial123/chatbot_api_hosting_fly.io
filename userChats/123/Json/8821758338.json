@@ -1,0 +1,13 @@
+[
+    {
+        "response_id": "f472664e-ea82-4662-9d46-37e6e5ebe99e",
+        "user message": "place a limit order for the appl and quantity is 1 ?",
+        "Translated user message": "",
+        "AI Message": "Could you please confirm the ticker symbol, is it AAPL? Also, I'll need a limit price for this order.",
+        "time": "2025-09-15T11:01:28.182074",
+        "task_id": "01d3c2c4-a34b-4133-bac1-c07eed8ae50c",
+        "Main_reasoning": "",
+        "Main_reasoning_translated": "",
+        "Translated AI Message": ""
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "response_id": "a768093f-b18e-4595-8387-c9b90d87813d",
+        "user message": "what is current price of apple?",
+        "Translated user message": "",
+        "AI Message": "The current price of Apple Inc. (AAPL) is $226.79.\n\nHere are some additional details:\n- **High:** $232.34\n- **Low:** $225.95\n- **Open:** $232.02\n- **Previous Close:** $234.35\n- **50-Day Moving Average:** $220.25\n- **200-Day Moving Average:** $221.48\n- **Volume:** 80,814,115",
+        "time": "2025-09-11T17:12:22.378666",
+        "task_id": "33ee08e4-9cc6-4cdf-a5ab-3f9290ac4b7a",
+        "Main_reasoning": "",
+        "Main_reasoning_translated": "",
+        "Translated AI Message": ""
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "response_id": "218b3400-075b-4445-8387-4977ecc63a7d",
+        "user message": "current price of AAPL INC?",
+        "Translated user message": "",
+        "AI Message": "Of course, here is the latest price for AAPL.\n\n### Apple Inc. (AAPL)\n\n**Recent Price:**\nThe most recent trading price for AAPL is **$237.88 USD**.\n\n**Today's Trading:**\n- **Open:** $239.30\n- **High:** $240.15\n- **Low:** $236.34\n- **Previous Close:** $239.69\n- **Volume:** 48,650,045\n\n**Technical Details:**\n- **50-Day Moving Average:** $219.15\n- **200-Day Moving Average:** $221.46",
+        "time": "2025-09-09T16:18:56.394248",
+        "task_id": "13db06f1-a172-437e-a730-9ec6818a3365",
+        "Main_reasoning": "",
+        "Main_reasoning_translated": "",
+        "Translated AI Message": ""
+    }
+]
